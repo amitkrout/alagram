@@ -16,7 +16,7 @@ $ docker run -it docker.io/amitsilicon2008/alagram:1.0
 
 **Step 3:**
 
-root@78276a379015 rungoprogram]# ./alagram.go HELLO
+root@78276a379015 rungoprogram]# ./alagram HELLO
 
 
 **NOTE:** You need only container run time (docker) on your host machine.
